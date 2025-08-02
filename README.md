@@ -189,6 +189,6 @@ This project is licensed under the ISC License.
 
 ---
 
-**Made with ❤️ and ☕ by the Plant Paradise team**
+**Made with ❤️ and ☕ by the Plant Paradise team @vikrant**
 
 *Ready to create your own multi-theme application? Start exploring the code and customize it to your needs!*
