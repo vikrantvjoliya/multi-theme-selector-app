@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-theme-selector-app/static/css/main.95686b82.css",
+    "main.js": "/multi-theme-selector-app/static/js/main.2432eb1e.js",
+    "index.html": "/multi-theme-selector-app/index.html",
+    "main.95686b82.css.map": "/multi-theme-selector-app/static/css/main.95686b82.css.map",
+    "main.2432eb1e.js.map": "/multi-theme-selector-app/static/js/main.2432eb1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95686b82.css",
+    "static/js/main.2432eb1e.js"
+  ]
+}
